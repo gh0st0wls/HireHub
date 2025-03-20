@@ -30,7 +30,7 @@ Live Demo:https://talenttrove-ytdh.onrender.com/
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/your-username/candidate-finder.git
-   cd candidate-finder
+   cd HireHub
    ```
 
 2. **Install dependencies**  
